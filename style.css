@@ -11,6 +11,8 @@ header {
 }
 
 .history {
+    margin-bottom:1em;
+
     border: solid 2px green;
 
     h2 {
@@ -19,13 +21,14 @@ header {
 
     p {
         line-height: 90%;
-        margin-bottom:1em;
     }
 
     text-indent: 4em;
 }
 
 .nutrition {
+    font-family: "Itim", cursive;
+
     border: solid 2px blue;
 
     text-indent: 4em;
@@ -34,6 +37,8 @@ header {
 }
 
 .lawsuits {
+    font-family: "Lora", serif;
+
     border: solid 2px red;
 
     text-indent: 4em;
